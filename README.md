@@ -1,5 +1,7 @@
 # Gamma Export Guide — Export Presentations Without the Watermark
 
+![Gamma export guide — export presentations without the Made with Gamma watermark](assets/banner.webp)
+
 A practical, regularly updated guide to exporting presentations from [Gamma.app](https://gamma.app): what each export format contains, why the "Made with Gamma" watermark appears, and every working way to get clean PDF and PowerPoint files.
 
 Maintained by the [GammaRemover](https://gammaremover.com) project. Corrections and additions are welcome via pull request.
